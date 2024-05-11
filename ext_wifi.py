@@ -5,7 +5,7 @@ import subprocess
 import time
 
 class ext_wifi(plugins.Plugin):
-    __author__ = 'chris@holycityhosting.com'
+    __author__ = 'pragmatic@tuta.com'
     __version__ = '1.0.0'
     __license__ = 'GPL3'
     __description__ = 'Activates external wifi adapter'
