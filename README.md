@@ -5,7 +5,7 @@
 Add the following to your config.toml:
 ```
 main.plugins.ext_wifi.enabled = true
-main.plugins.ext_wifi.interface = "wlan1"
+main.plugins.ext_wifi.interface = "wlan0"
 main.plugins.ext_wifi.mode = "external"
 ```
 Change main.plugins.ext_wifi.mode to "internal" to swap back to the internal WiFi.
